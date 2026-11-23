@@ -1,0 +1,11 @@
+PALABRA: RECETA
+COMENTARIO: Listo {usuario}, te lo mandé por privado.
+COMENTARIO: {usuario} ya lo tenés en tus mensajes.
+COMENTARIO: Te escribí por privado, {usuario}. Fijate en la bandeja de solicitudes si no lo ves.
+MENSAJE:
+Hola {usuario}, gracias por comentar.
+
+Acá tenés lo que te prometimos en el post:
+https://tu-link-aca
+
+Si te sirvió, guardalo y compartilo con quien lo necesite.
